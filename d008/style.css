@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(202, 202, 202);
+}
+h1{
+    font-size: 25pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 14pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+}
+
+#body-amarelo{
+   background-color: rgb(192, 192, 138);  
+} 
+#h1-amarelo{
+    color: rgb(253, 253, 93);
+    font-size: 25pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p-amarelo{
+    color: rgb(253, 253, 93);
+    font-size: 14pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#body-verde{
+    background-color: rgb(153, 192, 138);  
+ } 
+#h1-verde{
+    color: rgb(159, 251, 131);
+    font-size: 25pt;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+#p-verde{
+    color: rgb(159, 251, 131);
+    font-size: 14pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
